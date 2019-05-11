@@ -1,0 +1,16 @@
+{
+  "name": "roadagain.dev",
+  "version": "0.0.1",
+  "description": "The website of Roadagain as a developer",
+  "repository": "https://github.com/Roadagain/roadagain.dev.git",
+  "author": "Roadagain <ringoh72@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "firebase-tools": "^6.9.2"
+  },
+  "scripts": {
+    "serve": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "private": true
+}
